@@ -9,7 +9,7 @@ def main():
     parser.add_argument("--warning", help="Print if no entry has been found for a paper in the .bib", default="true")
     writer = BibTexWriter()
     liste = open("liste.txt","r")
-    res = open("export.bib","w")
+    res = open("references.bib","w")
     line = liste.readline()
     while line:
         line = line.replace(" ","+").replace(",","")
@@ -31,8 +31,10 @@ def main():
 
                 else:
                     temp = []
-                    temp.append(bib_database.entries[choice]) 
-                    db.entries = temp   
+                    temp.append(bib_database.entries[int(choice)]) 
+                    print(temp)
+                    db.entries = temp 
+                    res.write(writer.write(db))  
             #if(bib.database.entries)
             else:
                 temp = []
