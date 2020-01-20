@@ -1,0 +1,21 @@
+With Facebook, Blogs, and Fake News, Teens Reject Journalistic Objectivity
+Deep Neural Architectures for Automatic Representation Learning from Multimedia Multimodal Data
+Convolutional deep belief networks for scalable unsupervised learning of hierarchical representations
+Very Deep Convolutional Networks for Large-Scale Image Recognition
+Deep Residual Learning for Image Recognition
+Distributed Representations of Words and Phrases and their Compositionality
+Glove: Global Vectors for Word Representation
+Attention Is All You Need
+BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding
+Going Deeper with Convolutions
+Multimodal Deep Learning
+Bidirectional Joint Representation Learning with Symmetrical Deep Neural Networks for Multimodal and Crossmodal Applications
+Learning Deep Structure-Preserving Image-Text Embeddings
+Unifying Visual-Semantic Embeddings with Multimodal Neural Language Models
+Multimedia Semantic Integrity Assessment Using Joint Embedding Of Images And Text
+Support Vector Method for Novelty Detection
+Isolation Forest
+Deep Multimodal Image-Repurposing Detection
+Deep Learning Methods for Event Verification and Image Repurposing Detection
+Adversarial Learning Framework for Image Repurposing Detection
+Generative Adversarial Networks for Multimodal Representation Learning in Video Hyperlinking
